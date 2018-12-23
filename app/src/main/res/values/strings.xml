@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextFileOutput</string>
+    <string name="filename_hint">ファイル名を入力してください</string>
+</resources>
